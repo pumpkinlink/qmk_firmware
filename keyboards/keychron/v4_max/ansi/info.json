@@ -1,4 +1,7 @@
 {
+    "tapping": {
+        "hold_on_other_key_press": true
+    },
     "usb": {
         "pid": "0x0940",
         "device_version": "1.0.0"
